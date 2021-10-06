@@ -1,6 +1,6 @@
 # blind-maze-runner
 
-FIXME: description
+Runs a maze by picking the next edge at random and calculates average steps taken to find the goal
 
 ## Installation
 
